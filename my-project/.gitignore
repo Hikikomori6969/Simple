@@ -1,0 +1,4 @@
+# Ignore Windows system files and directories
+AppData/
+AppData/Local/
+AppData/Local/Application Data/
